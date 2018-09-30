@@ -1,2 +1,3 @@
-# hello-world
-This is my first repository!
+# hi
+This project is my first min-game for webchart
+
